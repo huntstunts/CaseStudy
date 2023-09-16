@@ -2,7 +2,9 @@
 
 
 **Overview and Origin**
+
 Back in 2012, Chris Britt, the senior product leader for Visa, and Ryan King, the Vice President of Engineering at Plaxo, decided to join forces and design a bank that was completely digital. With Britt’s background in the finance world and King’s background in social networking, the two were able to develop Chime. Chime first went public on Dr. Phil in April 2014, at this time Neo Banking was still a new thing, and many people thought the idea was crazy. But eventually, the duo were able to get money from investors such as Sequoia Capital Globe Equities, SoftBank Vision Fund 2, General Atlantic, Tiger Global, Dragoneer, and more. As of today they have received over $1.7 billion in funding and is now the biggest Neo Bank globally.
+
 **Business Activities**
 
 **Landscape**
